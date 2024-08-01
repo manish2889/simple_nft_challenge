@@ -1,24 +1,9 @@
 # 🚩 Challenge #0: 🎟 Simple NFT Example
 
-![readme-0](https://github.com/scaffold-eth/se-2-challenges/assets/80153681/375b7797-6839-43cd-abe5-fca94d88e300)
-
-📚 This tutorial is meant for developers that already understand the [ 🖍️ basics ](https://www.youtube.com/watch?v=MlJPjJQZtC8). 
-
-🧑‍🏫 If you would like a more gentle introduction for developers, watch our 15 video [🎥 Web2 to Web3](https://www.youtube.com/playlist?list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69) series.
-
----
-
-🎫 Create a simple NFT:
-
-👷‍♀️ You'll compile and deploy your first smart contracts. Then, you'll use a template React app full of important Ethereum components and hooks. Finally, you'll deploy an NFT to a public network to share with friends! 🚀
-
-🌟 The final deliverable is an app that lets users purchase and transfer NFTs. Deploy your contracts to a testnet, then build and upload your app to a public web server. Submit the url on [SpeedRunEthereum.com](https://speedrunethereum.com)!
-
-💬 Meet other builders working on this challenge and get help in the [Challenge 0 Telegram](https://t.me/+Y2vqXZZ_pEFhMGMx)!
-
-🤖 If you have any question during your Challenge, you can try out the [Challenge AI assistant](https://scaffold-eth-assistant.streamlit.app/), and get answers to your Challenge/Scaffold-ETH questions. Please reach us in Telegram if something feels wrong!
 
 ## Checkpoint 0: 📦 Environment 📚
+
+## Working Vercel link: https://simple-o4s0ue2zf-manish-rs-projects.vercel.app/
 
 Before you begin, you need to install the following tools:
 
@@ -29,7 +14,7 @@ Before you begin, you need to install the following tools:
 Then download the challenge to your computer and install dependencies by running:
 
 ```sh
-git clone https://github.com/scaffold-eth/se-2-challenges.git challenge-0-simple-nft
+git clone  https://github.com/manish2889/simple_nft_challenge.git challenge-0-simple-nft
 cd challenge-0-simple-nft
 git checkout challenge-0-simple-nft
 yarn install
@@ -221,6 +206,3 @@ yarn verify --network sepolia
 
 ---
 
-> 🏃 Head to your next challenge [here](https://github.com/scaffold-eth/se-2-challenges).
-
-> 💬 Problems, questions, comments on the stack? Post them to the [🏗 scaffold-eth developers chat](https://t.me/joinchat/F7nCRK3kI93PoCOk)
