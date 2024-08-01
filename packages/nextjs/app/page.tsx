@@ -6,7 +6,7 @@ const Home: NextPage = () => {
     <div className="flex items-center flex-col flex-grow pt-10">
       <div className="px-5 w-[90%] md:w-[75%]">
         <h1 className="text-center mb-6">
-          <span className="block text-2xl mb-2">SpeedRunEthereum</span>
+          <span className="block text-2xl mb-2">NFT Mint</span>
           <span className="block text-4xl font-bold">Challenge #0: Simple NFT</span>
         </h1>
         <div className="flex flex-col items-center justify-center">
@@ -31,7 +31,7 @@ const Home: NextPage = () => {
               🌟 The final deliverable is an app that lets users purchase and transfer NFTs. Deploy your contracts to a
               testnet then build and upload your app to a public web server. Submit the url on{" "}
               <a href="https://speedrunethereum.com/" target="_blank" rel="noreferrer" className="underline">
-                SpeedRunEthereum.com
+                NFT Mint.com
               </a>{" "}
               !
             </p>
